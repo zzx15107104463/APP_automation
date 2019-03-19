@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "TestAllure.test01",
+    "uid" : "64e5545eebf9bc11",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1552900372043,
+      "stop" : 1552900372073,
+      "duration" : 30
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

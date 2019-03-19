@@ -1,0 +1,43 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1552962037897" stop="1552962037917">
+  <name>test01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1552962037897" status="passed" stop="1552962037907">
+      <name>Test01.test001</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7104-MainThread"/>
+        <label name="host" value="AFOFG-608291426"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1552962037907" status="passed" stop="1552962037907">
+          <name>新增地址方法被执行</name>
+          <title>新增地址方法被执行</title>
+          <attachments>
+            <attachment source="ec51daea-1e57-4091-afd8-a8b832fc626b-attachment.txt" title="点击新增地址按钮" type="text/plain"/>
+            <attachment source="72e07c68-9a95-4307-8a2f-db4497240c48-attachment.txt" title="点击新增输入收件人：" type="text/plain"/>
+            <attachment source="ac706c13-a83b-414e-9801-5fa6618e9214-attachment.txt" title="点击新增输入手机号：" type="text/plain"/>
+            <attachment source="7e7de00a-e874-460a-88a3-7be5f0c097c0-attachment.txt" title="点击新增输入收货地址：" type="text/plain"/>
+            <attachment source="db06b68b-66e1-4516-850d-734d51d876f7-attachment.txt" title="点击新增输入点击新增：" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1552962037917" status="passed" stop="1552962037917">
+      <name>Test01.test002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7104-MainThread"/>
+        <label name="host" value="AFOFG-608291426"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

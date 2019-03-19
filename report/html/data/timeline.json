@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "AFOFG-608291426",
+    "children" : [ {
+      "name" : "5452-MainThread",
+      "children" : [ {
+        "name" : "TestAllure.test01",
+        "uid" : "64e5545eebf9bc11",
+        "parentUid" : "fbb3e107606ba97cfdab13fccc67d84c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552900372043,
+          "stop" : 1552900372073,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fbb3e107606ba97cfdab13fccc67d84c"
+    } ],
+    "uid" : "c6e9f8ef264d933c2eda0f40cbbcd174"
+  } ]
+}

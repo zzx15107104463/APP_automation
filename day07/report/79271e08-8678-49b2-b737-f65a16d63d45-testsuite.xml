@@ -1,0 +1,26 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1552959889570" stop="1552959889570">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1552959889570" status="broken" stop="1552959889570">
+      <name>test01</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>scripts\test01.py:10: in &lt;module&gt;
+    class Test01:
+scripts\test01.py:20: in Test01
+    allure.attach("点击新增输入点击更新：", "")
+c:\users\administrator\appdata\local\programs\python\python36-32\lib\site-packages\allure\pytest_plugin.py:331: in attach
+    self._allurelistener.attach(name, contents, type)
+c:\users\administrator\appdata\local\programs\python\python36-32\lib\site-packages\allure\pytest_plugin.py:139: in attach
+    self.stack[-1].attachments.append(attach)
+E   AttributeError: 'AllureTestListener' object has no attribute 'stack'</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
